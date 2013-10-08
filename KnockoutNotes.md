@@ -1,6 +1,6 @@
 ##Knockout
 
-  *http://knockoutjs.com/
+  * http://knockoutjs.com/
   
 ###Tasks
   * Integrate with modular js backing object (AMD)

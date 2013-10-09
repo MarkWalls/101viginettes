@@ -10,7 +10,7 @@ A series of little viginettes to exercise my muscles a little bit. Nothing serio
 ###JavaScript:
   * DataBinding
   * Modular Code
-  * Node.js
+  * Node.js. http://stackoverflow.com/questions/2353818/how-do-i-get-started-with-node-js
   * Durandal.js
   
 ###NoSQL backends
